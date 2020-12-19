@@ -1,0 +1,23 @@
+    p{
+        color: blue;
+        fonte-size: 14px;
+        fonte-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        /*background-color: yellow;*/
+    }
+    <body{
+        background-color: rgb(203, 206, 192);
+    }
+    .menu{
+        color: rgb(117, 212, 125)
+        font-size: 12px;
+        font-family: geneva;
+        font-weight: bold;
+    }
+    .lista{
+        color: rgb(194, 219, 101);
+        font-size: 12px;
+        font-family: calibri;
+        font-weight: bold;
+
+    }
